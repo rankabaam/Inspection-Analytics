@@ -1,0 +1,25 @@
+check_id,month,area,has_finding,is_followup,repeated_finding
+DEMO-001,2026-07,Lighting,true,false,false
+DEMO-002,2026-07,Signage,false,false,false
+DEMO-003,2026-07,Entry Area,true,false,false
+DEMO-004,2026-07,Lighting,true,true,true
+DEMO-005,2026-07,Signage,false,true,false
+DEMO-006,2026-07,Entry Area,false,false,false
+DEMO-007,2026-08,Lighting,true,false,false
+DEMO-008,2026-08,Signage,false,false,false
+DEMO-009,2026-08,Entry Area,false,true,false
+DEMO-010,2026-08,Lighting,true,true,true
+DEMO-011,2026-08,Signage,false,false,false
+DEMO-012,2026-08,Entry Area,false,false,false
+DEMO-013,2026-09,Lighting,false,false,false
+DEMO-014,2026-09,Signage,true,false,false
+DEMO-015,2026-09,Entry Area,false,false,false
+DEMO-016,2026-09,Lighting,false,true,false
+DEMO-017,2026-09,Signage,false,true,false
+DEMO-018,2026-09,Entry Area,false,false,false
+DEMO-019,2026-10,Lighting,false,false,false
+DEMO-020,2026-10,Signage,false,false,false
+DEMO-021,2026-10,Entry Area,false,false,false
+DEMO-022,2026-10,Lighting,true,true,false
+DEMO-023,2026-10,Signage,false,true,false
+DEMO-024,2026-10,Entry Area,false,false,false
